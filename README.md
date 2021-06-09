@@ -31,6 +31,9 @@
 
 <div align="center">  
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujahid20"/>   
+    
+   <image align="center" src="https://github-readme-stats.vercel.app/api?username=mujahid20t&show_icons=true&theme=dracula"> 
+       
 </div>
 
 ### 📺 Latest YouTube Videos
