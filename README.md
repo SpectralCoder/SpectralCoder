@@ -34,9 +34,9 @@
    <image src="https://github-readme-stats.vercel.app/api?username=mujahid20&show_icons=true&theme=tokyonight"> 
        
 </div>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mujahid20)  
+
 
 ![GitHub metrics](https://metrics.lecoq.io/mujahid20)
   
-![Profile views](https://gpvc.arturio.dev/mujahid20)
+![viewers](https://komarev.com/ghpvc/?username=mujahid20&color=green)
 
