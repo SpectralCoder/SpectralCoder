@@ -23,10 +23,12 @@
       
   </div>
 
+
 ### I'm currently a fresh gradute of BSCSE from United International University!!
 
 - 🌱 I’m currently learning Django.
 - ⚡ Fun fact: I love to work on business development and Fancy CSS animations
+
 
 <div align="center">  
    <image src="https://github-readme-stats.vercel.app/api?username=mujahid20&show_icons=true&theme=tokyonight"> 
@@ -36,7 +38,7 @@
   
  <div align="center">  
    <img alt="MySQL"  width="80px" height="40px" src="https://raw.githubusercontent.com/mujahid20/mujahid20/master/logo/MERN-logo.png" />
-   <br> 
+   <br> <br>
    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujahid20&show_icons=true&theme=tokyonight"> 
      
      
