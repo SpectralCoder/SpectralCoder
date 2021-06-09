@@ -28,9 +28,12 @@
 
 - 🌱 I’m currently learning Django.
 - ⚡ Fun fact: I love to work on business development and Fancy CSS animations
-<div align = "center" >
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mujahid20)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">  
+     <h2>Top Language</h2> <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujahid20"/>   
 </div>
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
