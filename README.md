@@ -37,5 +37,6 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mujahid20)  
 
 ![GitHub metrics](https://metrics.lecoq.io/mujahid20)
+  
 ![Profile views](https://gpvc.arturio.dev/mujahid20)
 
