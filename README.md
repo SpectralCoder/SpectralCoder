@@ -3,7 +3,7 @@
 <div align = "center" > 
   <br>
   <br>
-  <b> Hi there 👋, I'm Mujahidul Islam, a developer from Dhaka, Bangladesh(:bangladesh:).    </b>
+  <b> Hi there 👋, I'm Mujahidul Islam, a developer from Dhaka, Bangladesh :bangladesh:.    </b>
     <br>
   </div>
 
