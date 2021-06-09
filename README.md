@@ -5,6 +5,21 @@
   <br>
   <b> Hi there 👋, I'm Mujahidul Islam, a developer from Dhaka, Bangladesh :bangladesh:.    </b>
     <br>
+  <a target="_blank" href="https://twitter.com/Robiuddin_Robi">
+        <img src="https://image.flaticon.com/icons/svg/889/889228.svg" width="20px">
+      </a>
+       &nbsp; &nbsp;
+      <a target="_blank" href="mailto:mrobiuddin171023@bscse.uiu.ac.bd?subject=From%20GitHub&cc=mrrobi040@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub">
+        <img src="https://image.flaticon.com/icons/svg/893/893292.svg" width="20px">
+      </a>
+      &nbsp; &nbsp;
+      <a target="_blank" href="https://www.linkedin.com/in/robiuddin-robi-631693141/">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="20px">
+      </a>
+      &nbsp; &nbsp;
+      <a target="_blank" href="https://www.instagram.com/robiuddinrobi/">
+        <img src="https://image.flaticon.com/icons/svg/1014/1014650.svg" width="20px">
+      </a> 
   </div>
   [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
