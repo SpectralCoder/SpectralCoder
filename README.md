@@ -29,11 +29,18 @@
 - ⚡ Fun fact: I love to work on business development and Fancy CSS animations
 
 <div align="center">  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujahid20&layout=compact"/>   
-    <br>
    <image src="https://github-readme-stats.vercel.app/api?username=mujahid20&show_icons=true&theme=tokyonight"> 
-     <br> 
-     <img alt="MySQL"  width="80px" height="40px" src="https://raw.githubusercontent.com/mujahid20/mujahid20/master/logo/MERN-logo.png" />
+</div>
+  
+### Language & Tools
+  
+ <div align="center">  
+   <img alt="MySQL"  width="80px" height="40px" src="https://raw.githubusercontent.com/mujahid20/mujahid20/master/logo/MERN-logo.png" />
+   
+   <br> 
+   <image src="https://github-readme-stats.vercel.app/api?username=mujahid20&show_icons=true&theme=tokyonight"> 
+     
+     
        
 </div>
 
