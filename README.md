@@ -38,5 +38,5 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/mujahid20)
   
-![viewers](https://komarev.com/ghpvc/?username=mujahid20&color=green)
+![viewers](https://komarev.com/ghpvc/?username=mujahid20&color=blueviolet)
 
