@@ -5,9 +5,7 @@
   <br>
   <b> Hi there 👋, I'm Mujahidul Islam, a developer from Dhaka, Bangladesh :bangladesh:.    </b>
     <br>
-  <a target="_blank" href="https://twitter.com/Robiuddin_Robi">
-        <img src="https://image.flaticon.com/icons/svg/889/889228.svg" width="20px">
-      </a>
+  <div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
        &nbsp; &nbsp;
       <a target="_blank" href="mailto:mrobiuddin171023@bscse.uiu.ac.bd?subject=From%20GitHub&cc=mrrobi040@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub">
         <img src="https://image.flaticon.com/icons/svg/893/893292.svg" width="20px">
