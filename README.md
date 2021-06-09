@@ -3,8 +3,8 @@
 <div align = "center" > 
   <br>
   <br>
-  <h1>
-  <b> Bonjour! 👋, I'm Mujahidul Islam, a developer from Dhaka, Bangladesh :bangladesh:.    </b> </h1>
+  <h3>
+  <b> Bonjour! 👋, I'm Mujahidul Islam, a developer from Dhaka, Bangladesh :bangladesh:.    </b> </h3>
     <br>
   <br>
    <a target="_blank" href="https://accounts.google.com/ServiceLogin?service=mail&passive=true&Email=example@gmail.com&continue=https://mail.google.com/mail/u/example@gmail.com/?view=cm%26fs=1%26to=mislam171020@bscse.uiu.ac.bd%26su=SUBJECT%26body=BODY%26">
@@ -26,7 +26,7 @@
   </div>
 
 
-### I'm currently a fresh gradute of BSCSE from United International University!!
+#### I'm currently a fresh gradute of BSCSE from United International University!!
 
 - 🌱 I’m currently learning Django.
 - ⚡ Fun fact: I love to work on business development and Fancy CSS animations
@@ -36,7 +36,7 @@
    <image src="https://github-readme-stats.vercel.app/api?username=mujahid20&show_icons=true&theme=tokyonight"> 
 </div>
   
-### Language & Tools
+#### Language & Tools
   
  <div align="center"> 
    <img alt="Django"  width="80px" height="40px" src="https://raw.githubusercontent.com/mujahid20/mujahid20/master/logo/django-posi.svg" /> &nbsp; &nbsp;
