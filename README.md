@@ -36,7 +36,7 @@
    <image src="https://github-readme-stats.vercel.app/api?username=mujahid20&show_icons=true&theme=tokyonight"> 
        
 </div>
-
+![](https://komarev.com/ghpvc/?username=mujahid20&color=c03546)
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
