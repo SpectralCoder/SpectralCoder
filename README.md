@@ -37,8 +37,8 @@
 ### Language & Tools
   
  <div align="center"> 
-   <img alt="Django"  width="80px" height="40px" src="https://raw.githubusercontent.com/mujahid20/mujahid20/master/logo/django-posi.svg" /> &nbsp;
-   <img alt="MERN Stack"  width="80px" height="40px" src="https://raw.githubusercontent.com/mujahid20/mujahid20/master/logo/MERN-logo.png" />
+   <img alt="Django"  width="80px" height="40px" src="https://raw.githubusercontent.com/mujahid20/mujahid20/master/logo/django-posi.svg" /> &nbsp; &nbsp;
+   <img alt="MERN Stack"  width="80px" height="40px" src="https://raw.githubusercontent.com/mujahid20/mujahid20/master/logo/MERN-logo.png" /> &nbsp; &nbsp;
    <br> <br>
    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujahid20&show_icons=true&theme=tokyonight"> 
      
