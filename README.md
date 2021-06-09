@@ -32,6 +32,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujahid20&layout=compact"/>   
     <br>
    <image src="https://github-readme-stats.vercel.app/api?username=mujahid20&show_icons=true&theme=tokyonight"> 
+     <br> 
+     <img alt="MySQL"  width="50px" height="40px" src="https://raw.githubusercontent.com/mujahid20/mujahid20/master/logo/django-posi.svg" />
        
 </div>
 
