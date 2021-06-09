@@ -3,7 +3,7 @@
 <div align = "center" > 
   <br>
   <br>
-  <b> Hi there 👋, I'm Mujahidul Islam, a developer from Dhaka, Bangladesh :bangladesh:.    </b>
+  <b> Bonjour! 👋, I'm Mujahidul Islam, a developer from Dhaka, Bangladesh :bangladesh:.    </b>
     <br>
    <a target="_blank" href="https://accounts.google.com/ServiceLogin?service=mail&passive=true&Email=example@gmail.com&continue=https://mail.google.com/mail/u/example@gmail.com/?view=cm%26fs=1%26to=mislam171020@bscse.uiu.ac.bd%26su=SUBJECT%26body=BODY%26">
         <img src="https://image.flaticon.com/icons/svg/1936/1936345.svg" width="20px">
@@ -30,12 +30,6 @@
 - ⚡ Fun fact: I love to work on business development and Fancy CSS animations
 
 
-### Connect with me:
-
-
-
-<br />
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
@@ -58,7 +52,8 @@
 <br />
 <br />
 
----
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mujahid20)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📺 Latest YouTube Videos
 
