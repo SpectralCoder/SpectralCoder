@@ -5,7 +5,7 @@
   <br>
   <b> Hi there 👋, I'm Mujahidul Islam, a developer from Dhaka, Bangladesh :bangladesh:.    </b>
     <br>
-   <a target="_blank" href="https://twitter.com/Robiuddin_Robi">
+   <a target="_blank" href="mailto:mislam171020@bscse.uiu.ac.bd?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub">
         <img src="https://image.flaticon.com/icons/svg/1936/1936345.svg" width="20px">
       </a>
        &nbsp; &nbsp;
@@ -13,11 +13,11 @@
         <img src="https://image.flaticon.com/icons/svg/725/725289.svg" width="20px">
       </a>
       &nbsp; &nbsp;
-      <a target="_blank" href="https://www.linkedin.com/in/robiuddin-robi-631693141/">
+      <a target="_blank" href="https://www.linkedin.com/in/mujahidulislam20/">
         <img src="https://image.flaticon.com/icons/svg/725/725337.svg" width="20px">
       </a>
       &nbsp; &nbsp;
-      <a target="_blank" href="https://www.instagram.com/robiuddinrobi/">
+      <a target="_blank" href="https://discord.gg/b2WKrgQjMU">
         <img src="https://image.flaticon.com/icons/svg/356/356060.svg" width="20px">
       </a>  
       
