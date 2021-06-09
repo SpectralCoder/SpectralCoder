@@ -30,7 +30,7 @@
 - ⚡ Fun fact: I love to work on business development and Fancy CSS animations
 
 <div align="center">  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujahid20"/>   
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujahid20&layout=compact"/>   
     
    <image src="https://github-readme-stats.vercel.app/api?username=mujahid20&show_icons=true&theme=tokyonight"> 
        
