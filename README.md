@@ -30,7 +30,6 @@
 - ⚡ Fun fact: I love to work on business development and Fancy CSS animations
 
 <div align="center">  
-     <h2>Top Language</h2> <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujahid20"/>   
 </div>
 
