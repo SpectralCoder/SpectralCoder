@@ -18,7 +18,7 @@
       </a>
       &nbsp; &nbsp;
       <a target="_blank" href="https://www.instagram.com/robiuddinrobi/">
-        <img src="https://image.flaticon.com/icons/svg/1014/1014650.svg" width="20px">
+        <img src="https://image.flaticon.com/icons/svg/356/356060.svg" width="20px">
       </a>  
       
   </div>
