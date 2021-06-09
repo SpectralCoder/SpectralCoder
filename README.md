@@ -7,7 +7,7 @@
     <br>
   
       <a target="_blank" href="mailto:mrobiuddin171023@bscse.uiu.ac.bd?subject=From%20GitHub&cc=mrrobi040@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub">
-        <img src="https://image.flaticon.com/icons/svg/893/893292.svg" width="20px">
+        <img src="https://image.flaticon.com/icons/svg/1936/1936345.svg" width="20px">
       </a>
       &nbsp; &nbsp;
       <a target="_blank" href="https://www.linkedin.com/in/robiuddin-robi-631693141/">
