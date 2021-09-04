@@ -4,7 +4,7 @@
   <br>
   <br>
   <h3>
-  <b> Bonjour! 👋, I'm Mujahidul Islam, a developer from Dhaka, Bangladesh :bangladesh:.    </b> </h3>
+  <b> Bonjour! 👋, I'm Mujahidul Islam, a full stack developer from Dhaka, Bangladesh :bangladesh:.    </b> </h3>
 
    <a target="_blank" href="https://accounts.google.com/ServiceLogin?service=mail&passive=true&Email=example@gmail.com&continue=https://mail.google.com/mail/u/example@gmail.com/?view=cm%26fs=1%26to=mislam171020@bscse.uiu.ac.bd%26su=SUBJECT%26body=BODY%26">
         <img src="https://image.flaticon.com/icons/svg/1936/1936345.svg" width="20px">
