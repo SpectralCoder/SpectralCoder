@@ -25,9 +25,9 @@
   </div>
 
 
-#### I'm currently a fresh gradute of BSCSE from United International University!!
+#### I'm a Full stack developer learning Python, JavaScript and shooting with their frameworks ✈️!
 
-- 🌱 I’m currently learning Django.
+- 🌱 I’m currently learning FastAPI.
 - ⚡ Fun fact: I love to work on business development and Fancy CSS animations
 
 
