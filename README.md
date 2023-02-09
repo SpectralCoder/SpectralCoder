@@ -1,10 +1,7 @@
 
 
-<div> 
-<h3>
-  <b> Hey! 👋, I'm Mujahidul Islam. </b>
-  <h4> I am full stack developer. Always there to connect or contribute in innovative projects . <h4
-</h3>
+<div align="center">
+  <img src="https://github.com/mujahid20/mujahid20/blob/master/header.gif" alt="header"/>
 </div>
 <hr>
 <p align="center">
