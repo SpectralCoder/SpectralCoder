@@ -5,7 +5,7 @@
 </div>
 <hr>
 <p align="center">
-  <samp>As a full stack software engineer, I bring a rare combination of front-end flair and back-end savvy to the table. With 2+ years of experience in JavaScript (React, Svelte, Express) and Python (Flask, FastAPI, Django), I craft web applications that are both visually stunning and technically sound. From dynamic user interfaces to efficient back-ends and seamless database integrations, I deliver end-to-end solutions with a focus on quality and innovation.
+  <samp>As a full stack software engineer, I bring a rare combination of front-end flair and back-end savvy to the table. With 4+ years of experience in JavaScript (React, Svelte, Express) and Python (Flask, FastAPI, Django), I craft web applications that are both visually stunning and technically sound. From dynamic user interfaces to efficient back-ends and seamless database integrations, I deliver end-to-end solutions with a focus on quality and innovation.
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=mujahid20" alt="https://github.com/mujahid20" />
